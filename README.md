@@ -12,10 +12,10 @@ ruby-sass<br>
 uglifies js<br>
 gulp<br>
 
-Also packaged:
-HTML5 Boilerplate
--No Modernizer
--includes HTML5 Shiv, and Respond
--Minified Jquery
--404 page
+Also packaged:<br>
+HTML5 Boilerplate<br>
+-No Modernizer<br>
+-includes HTML5 Shiv, and Respond<br>
+-Minified Jquery<br>
+-404 page<br>
 
